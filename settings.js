@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 global.sessionID = process.env.SESSIONID || "KAVI-X-SESSION-ID~4UBTkL5b#KxB7BiRSO8OMwg-7mhgTKq5nxfMjrbhgs5NNjAsMpvY"
-global.botname = process.env.BOTNAME || "KAVI-X MD"
+global.botname = process.env.BOTNAME || "polo"
 global.ownernumber = process.env.OWNERNUMBER || ""
 global.ownername = process.env.OWNERNAME || "Cyber Kavi"
 global.websitex = process.env.WEBSITEX || "https://kavi-x-bot-login.up.railway.app/"
