@@ -1,7 +1,7 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.sessionID = process.env.SESSIONID || "KAVI-X-SESSION-ID~ehgiAZAI#poEV8gdCKJF0_Zry1w7u6qC8v2m_LPCZea5pwbik-s4"
+global.sessionID = process.env.SESSIONID || "
 
 global.ownernumber = process.env.OWNERNUMBER |0753178060| ""
 global.ownername = process.env.OWNERNAME || "PC POLO "
