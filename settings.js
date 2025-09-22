@@ -3,8 +3,8 @@ const chalk = require('chalk')
 
 global.sessionID = process.env.SESSIONID || "
 
-global.ownernumber = process.env.OWNERNUMBER |0762326484| ""
-global.ownername = process.env.OWNERNAME || "VINU MD BOT "
+global.ownernumber = process.env.OWNERNUMBER || "0778926110"
+global.ownername = process.env.OWNERNAME || "JITHMI "
 global.websitex = process.env.WEBSITEX || "https://kavi-x-bot-login.up.railway.app/"
 global.wagc = process.env.WAGC || "https://chat.whatsapp.com/CG9f0paHJzwDImXiydfuht"
 global.botscript = process.env.BOTSCRIPT || "https://github.com/KaviDeveloperSe/KAVI-X-BOT"
